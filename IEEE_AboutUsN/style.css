@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Russo+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+body{
+    background-color: rgb(19, 19, 19);
+    color: white;
+}
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.ieee-logo{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+
+.main-title{
+    font-size: 2.5em;
+    margin-left: 30px;
+    margin-top: 60px;
+    font-family: 'Russo One', sans-serif;
+}
+
+.mainheading{
+    text-align: center;
+
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+
+.exeheading{
+    text-align: center;
+}
+
+.wieheading{
+    text-align: center;
+}
+
+.rasheading{
+    text-align: center;
+}
+
+.wie{
+    margin-top: 20px;
+    border: 3px;
+    padding: 20px 5em 20px 5em;
+}
+
+.footer{
+    background-color: black;
+    padding: 20px 0 20px 0;
+}
+
+.sicon{
+    width: 38px;
+}
+
+.iicon{
+    width: 30px;
+}
+
